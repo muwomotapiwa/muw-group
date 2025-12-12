@@ -60,8 +60,8 @@
         }
 
         :root {
-            --primary: #b04a21;
-            --primary-color: #b04a21;
+            --primary: #21b0b0;
+            --primary-color: #21b0b0;
             --secondary-color: #d06f35;
             --mobile-menu-bg: #141414;
             --mobile-menu-toggle: #adadad;
@@ -81,7 +81,7 @@
         }
 
         a {
-            color: #b04a21;
+            color: #21b0b0;
         }
 
         h1 {
@@ -107,7 +107,7 @@
 
         h4 {
             font-family: Raleway, Arial, Verdana, sans-serif;
-            color: #b04a21;
+            color: #21b0b0;
         }
 
         .hornav,
@@ -172,12 +172,12 @@
         ul.dot li::before,
         .text-primary,
         #container_base h3 {
-            color: #b04a21;
+            color: #21b0b0;
         }
 
         .j51news .hover-overlay,
         .background-primary {
-            background-color: #b04a21;
+            background-color: #21b0b0;
         }
 
         .btn,
@@ -198,14 +198,14 @@
         .tagspopular a:hover,
         .module .module_header h3::after,
         .module_menu .module_header h3::after {
-            background-color: #b04a21;
+            background-color: #21b0b0;
             color: #fff;
         }
 
         .btn,
         .button,
         button {
-            background-color: #b04a21;
+            background-color: #21b0b0;
         }
 
         .btn:hover,
@@ -227,11 +227,11 @@
         .nav-tabs>.active>a,
         .nav-tabs>.active>a:hover,
         .nav-tabs>.active>a:focus {
-            border-bottom-color: #b04a21;
+            border-bottom-color: #21b0b0;
         }
 
         blockquote {
-            border-color: #b04a21;
+            border-color: #21b0b0;
         }
 
         .btn:hover,
@@ -241,16 +241,16 @@
         }
 
         .owl-theme .owl-controls .owl-buttons div {
-            background-color: #b04a21 !important;
+            background-color: #21b0b0 !important;
         }
 
         .tags .label-info[href] {
             background-color: transparent;
-            color: #b04a21;
+            color: #21b0b0;
         }
 
         .owl-theme .owl-controls .owl-buttons div {
-            background-color: #b04a21 !important;
+            background-color: #21b0b0 !important;
         }
 
         body {
@@ -561,3 +561,4 @@
         .layerslideshow-caption-container {
             overflow: hidden;
         }
+
